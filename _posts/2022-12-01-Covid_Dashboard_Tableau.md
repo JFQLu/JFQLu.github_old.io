@@ -64,6 +64,9 @@ Finally, the last query gives us the same information as query 3 but as a time s
 ### Dashboard Building
 The final step of this project is to visualise my findings in a Tableau dashboard. 
 My key takeaways from this part of the project is 
+- the importance of having a clear goal in mind for what I want to achieve from the dashboard
+- to keep the dashboard simple in terms of information and design
+- testing and iterating the dashboard to imrove its design
 
 
 
