@@ -1,4 +1,4 @@
-## Blog Post Title From First Header
+## Covid Dashboard - Tableau
 
 Motivation: after completion of my Data Science and Decisions degree at UNSW I feel that my skillset is primarily lacking in the area of Industry practices of Data Visualisation. One particularly sought-out skill which will be the main focus of this blog is Tableau. Tableau is a powerful data visualization tool that is widely used in various industries to analyze and communicate complex data. 
 
